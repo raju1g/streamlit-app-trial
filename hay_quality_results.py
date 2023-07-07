@@ -142,8 +142,8 @@ fig.update_layout(
         showline=True,
     ),
     autosize=False,
-    width=800,
-    height=500,
+    width=1200,
+    height=600,
 )
 # fig2.update_layout(
 #     title="",
